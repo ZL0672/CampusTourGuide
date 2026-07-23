@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.obj
+*.o
+*.tlog
+*.log
+*.recipe
+*.FileListAbsolute.txt
+
+# VS Code
+.vscode/
+
+# GitHub
+.github/
